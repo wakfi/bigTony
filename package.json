@@ -1,0 +1,19 @@
+{
+  "name": "spook-bot",
+  "version": "1.8.6",
+  "description": "JavaScrip Discord bot for spook town or whatever they wanna call they're server right now",
+  "main": "spook.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "svg-to-png": "^4.0.0",
+    "emoji-unicode": "^2.0.0",
+    "fs-extra": "^8.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wakfi",
+  "license": "MIT"
+}

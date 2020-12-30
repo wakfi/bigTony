@@ -1,0 +1,9 @@
+{
+    "timesToRunQuotes": {
+        "timesAsHours": [0,22,23],
+        "timesAsHoursIn12": ["12 am","10 pm","11 pm"],
+        "timesAsSeconds": [0,79200,82800],
+        "timesAsMilliseconds": [0,79200000,82800000]
+    },
+    "hasQuotesRunThisHourValues": [false,false,false]
+}
